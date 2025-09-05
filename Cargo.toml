@@ -4,5 +4,6 @@ resolver="3"
 
 [workspace.package]
 license = "MPL-2.0"
+description = "Legacy support for AOT and precompilation"
 
 [workspace.dependencies]
