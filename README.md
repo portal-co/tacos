@@ -1,13 +1,14 @@
 # tacos
 
 ## Description
-Project tacos
+"Legacy support for AOT and precompilation". Likely a crate for handling legacy binary formats or compilation strategies.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Support legacy AOT
+- [ ] Enable precompilation
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup
 
 ---
 *AI assisted*
